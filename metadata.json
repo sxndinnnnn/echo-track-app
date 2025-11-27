@@ -1,0 +1,5 @@
+{
+  "name": "EcoTrack AI - Carbon Analyzer",
+  "description": "A comprehensive Carbon Footprint Analyzer featuring IoT sensor integration simulation, manual data entry, AI-driven insights using Gemini, and robust reporting dashboards.",
+  "requestFramePermissions": []
+}
